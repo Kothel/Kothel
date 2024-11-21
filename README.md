@@ -6,9 +6,10 @@
 
 - <b>Active Directory</b>
   - [Active Directory creating network and users](https://github.com/Kothel/Active_Directory_Environment/tree/main)
+
+- <b>Microsft Azure</b>
+  - [Aczure creating honeypot and monitoring login attempts through Microsft Sentinal](https://github.com/Kothel/Azure_SIEM/tree/main)
 <!--
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
