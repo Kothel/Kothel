@@ -8,7 +8,7 @@
   - [Active Directory creating network and users](https://github.com/Kothel/Active_Directory_Environment/tree/main)
 
 - <b>Microsft Azure</b>
-  - [Aczure creating honeypot and monitoring login attempts through Microsft Sentinal](https://github.com/Kothel/Azure_SIEM/tree/main)
+  - [Aczure creating honeypot and monitoring with Microsft Sentinal](https://github.com/Kothel/Azure_SIEM/tree/main)
 <!--
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
