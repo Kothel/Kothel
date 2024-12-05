@@ -10,6 +10,7 @@
 - <b>Microsft Azure</b>
   - [Azure creating honeypot and monitoring with Microsft Sentinal](https://github.com/Kothel/Azure_SIEM/tree/main)
   - [Azure using vm to make a ticket system simulation with osTicket](https://github.com/Kothel/Azure_ticket_System/tree/main)
+  - [Azure using vm set up automated snort alert blocking and rule update](https://github.com/Kothel/Azure_SNORT/tree/main)
 <!--
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
