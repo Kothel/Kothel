@@ -3,16 +3,17 @@
 --> 
 
 <h2>👨‍💻 Projects:</h2>
-
+- <b>home lab Environment file server</b>
+  - [Home Lab Environment File Server](https://github.com/Kothel/home_lab_enviorment_1)
 - <b>Active Directory</b>
   - [Active Directory creating network and users](https://github.com/Kothel/Active_Directory_Environment/tree/main)
 
-- <b>Microsft Azure</b>
+- <b>Microsoft Azure</b>
   - [Azure creating honeypot and monitoring with Microsft Sentinal](https://github.com/Kothel/Azure_SIEM/tree/main)
   - [Azure using vm to make a ticket system simulation with osTicket](https://github.com/Kothel/Azure_ticket_System/tree/main)
   - [Azure using vm set up automated snort alert blocking and rule update](https://github.com/Kothel/Azure_SNORT/tree/main)
 <!--
-- <b>PowerShell</b>
+- <b>Power Shell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
