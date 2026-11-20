@@ -4,11 +4,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 - <b>home lab Environment file server</b>
-
   - [Home Lab Environment File Server](https://github.com/Kothel/home_lab_enviorment_1)
   
-- <b>Active Directory</b>
-  
+- <b>Active Directory</b>  
   - [Active Directory creating network and users](https://github.com/Kothel/Active_Directory_Environment/tree/main)
 
 - <b>Microsoft Azure</b>
