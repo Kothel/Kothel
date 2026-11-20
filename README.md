@@ -4,12 +4,13 @@
 
 <h2>👨‍💻 Projects:</h2>
 - <b>home lab Environment file server</b>
+
   - [Home Lab Environment File Server](https://github.com/Kothel/home_lab_enviorment_1)
   
-- <b>Active Directory</b>  
+- <c>Active Directory</c>  
   - [Active Directory creating network and users](https://github.com/Kothel/Active_Directory_Environment/tree/main)
 
-- <b>Microsoft Azure</b>
+- <d>Microsoft Azure</d>
   - [Azure creating honeypot and monitoring with Microsft Sentinal](https://github.com/Kothel/Azure_SIEM/tree/main)
   - [Azure using vm to make a ticket system simulation with osTicket](https://github.com/Kothel/Azure_ticket_System/tree/main)
   - [Azure using vm set up automated snort alert blocking and rule update](https://github.com/Kothel/Azure_SNORT/tree/main)
