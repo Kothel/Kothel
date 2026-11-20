@@ -1,19 +1,18 @@
 <h1>Hi, I'm Christopher! 
   <!--<br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 --> 
+## 👨‍💻 Projects
 
-<h2>👨‍💻 Projects:</h2>
-- <b>home lab Environment file server</b>
-
+- **Home Lab Environment File Server**
   - [Home Lab Environment File Server](https://github.com/Kothel/home_lab_enviorment_1)
-  
-- <c>Active Directory</c>  
-  - [Active Directory creating network and users](https://github.com/Kothel/Active_Directory_Environment/tree/main)
 
-- <d>Microsoft Azure</d>
-  - [Azure creating honeypot and monitoring with Microsft Sentinal](https://github.com/Kothel/Azure_SIEM/tree/main)
-  - [Azure using vm to make a ticket system simulation with osTicket](https://github.com/Kothel/Azure_ticket_System/tree/main)
-  - [Azure using vm set up automated snort alert blocking and rule update](https://github.com/Kothel/Azure_SNORT/tree/main)
+- **Active Directory**
+  - [Active Directory: Creating Network and Users](https://github.com/Kothel/Active_Directory_Environment/tree/main)
+
+- **Microsoft Azure**
+  - [Azure: Creating Honeypot and Monitoring with Microsoft Sentinel](https://github.com/Kothel/Azure_SIEM/tree/main)
+  - [Azure: Using VMs to Create a Ticket System Simulation with osTicket](https://github.com/Kothel/Azure_ticket_System/tree/main)
+  - [Azure: Automated SNORT Alert Blocking and Rule Updates](https://github.com/Kothel/Azure_SNORT/tree/main)
 <!--
 - <b>Power Shell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
